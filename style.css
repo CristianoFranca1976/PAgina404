@@ -163,7 +163,10 @@ body {
     
     width: 230px;
     height: 230px; 
-    background-image: url(assets/Gif.png);
+    background-image: url(assets/animation.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .img-end {
